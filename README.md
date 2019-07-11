@@ -6,8 +6,8 @@ This script performs the following:
 2. Creates a new folder to store that project on your computer.
 3. Creates a local git repo.
 4. Creates a new C# console app template.
-5. Adds all the files in the directy to the newley created repo.
-6. Commits the chnages.
+5. Adds all the files in the directory to the newley created repo.
+6. Commits the changes.
 7. Pushes everything up to your GitHub account.
 
 ## To get this running:
