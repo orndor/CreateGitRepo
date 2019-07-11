@@ -11,10 +11,10 @@ This script performs the following:
 7. Pushes everything up to your GitHub account.
 
 ## To get this running:
-1. Copy repo-setup.sh and .gitignore to a directory on you computer.
+1. Copy repo-setup.sh and .gitignore to a directory on your computer.
 2. Open Gitbash.
 3. Navigate to the location of that file.
-4. Edit the file in nano (i.e nano repo-setup.sh), and update the following parameters:
+4. Edit the file in nano (i.e. nano repo-setup.sh), and update the following parameters:
   * Line 10: Enter the full path where all your projects will be stored.  This script will create subfolders within this folder. (To get this, type pwd in GitBASH from the folder you're working in.)
   * Line 14: Enter your GitHub develop access token.  You can generate one here: [https://github.com/settings/tokens](https://github.com/settings/tokens)
   * Line 16: Enter your GitHub username.  This is how the script determines the remote GitHub account to push the repo to.
