@@ -1,6 +1,6 @@
-#CreateGitRepo
+# CreateGitRepo
 
-##About:
+## About:
 This script performs the following:
 1. Asks for a project name.
 2. Creates a new folder to store that project on your computer.
